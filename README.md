@@ -1,0 +1,1 @@
+Hi! I’m Sumit Kumar, a web developer with a passion for clean design and organized structure. I built this site using just HTML, CSS, and JavaScript to show how minimal tools can produce a polished experience. Every animation, interaction, and layout choice reflects my attention to detail and drive to make things both functional and human-friendly.
