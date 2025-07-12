@@ -156,11 +156,13 @@ a {
     padding: 1rem 2rem;
     display: none;
     transition: all 0.3s ease-in;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2) ;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1100;
   }
 
   .nav-links.active {
     display: flex;
+    z-index: 1100;
   }
 }
 
